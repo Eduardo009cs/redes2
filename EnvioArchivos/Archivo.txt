@@ -1,0 +1,5 @@
+Eduardo Cuevas Solorza
+Aplicaciones para Comunicaciones en Red
+Programa: Envío de archivos múltiples
+
+Archivo de ejemplo 1 .txt
